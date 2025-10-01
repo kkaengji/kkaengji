@@ -33,9 +33,6 @@
 <!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://yourportfolio.com) -->
 
 
-
-## Hi there 👋
-
 <!--
 **kkaengji/kkaengji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
