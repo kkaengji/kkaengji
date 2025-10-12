@@ -1,4 +1,4 @@
-# 안녕하세요! 👋 남경진입니다.
+ # 안녕하세요! 👋 남경진입니다.
 - 대한민국에서 활동 중인 풀스택 웹개발자입니다. (4년 8개월)
 - 현재 kt Cloud TECH UP에서 풀스택 과정을 수료중입니다.📚
  
@@ -10,7 +10,7 @@
 #### 언어
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-![C#](https://img.shields.io/badge/-CSharp-A8B9CC?style=flat-square&logo=C&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 #### 프레임워크
