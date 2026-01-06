@@ -2,8 +2,6 @@
 - 대한민국에서 활동 중인 풀스택 웹개발자입니다. (4년 8개월)
 - 현재 kt Cloud TECH UP에서 풀스택 과정을 수료중입니다.📚
  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kkaengji&layout=compact&theme=radical)
-
 ---
 
 ## 💻 **기술 스택**
